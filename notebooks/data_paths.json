@@ -1,0 +1,1 @@
+{"train": "../data/processed/train", "val": "../data/processed/val", "test": "../data/processed/test"}
